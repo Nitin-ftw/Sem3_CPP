@@ -1,4 +1,4 @@
-include<iostream>
+#include<iostream>
 #include<string>
 template<class T>
 class array{
